@@ -102,16 +102,16 @@ Each file represents a different part of the project. You can run the files sepa
 
 ## Dependencies
 
-- python3
-- nltk
-- pandas
-- pymongo
-- transformers
-- torch
-- keras
-- nltk.translate.bleu_score
-- bert_score
-- qalsadi
+- `python3`
+- `nltk`
+- `pandas`
+- `pymongo`
+- `transformers`
+- `torch`
+- `keras`
+- `nltk.translate.bleu_score`
+- `bert_score`
+- `qalsadi`
 
 ## Installation
 
